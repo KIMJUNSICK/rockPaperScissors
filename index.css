@@ -1,7 +1,16 @@
+body {
+  font-size: 20px;
+  font-family: "ZCOOL KuaiLe", cursive;
+}
+
 button {
   all: unset;
   margin-top: 30px;
   padding: 5px 10px;
   cursor: pointer;
   border: 1px solid black;
+}
+
+.result {
+  margin: 30px 0px;
 }
